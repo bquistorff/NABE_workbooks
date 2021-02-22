@@ -1,0 +1,26 @@
+name: NABE_workbooks
+channels:
+  - r_test
+  - conda-forge
+dependencies:
+  - r-base=3.6.1
+  - r-tidyverse=1.2.1
+  - r-gridExtra=2.3
+  - r-ggplot2=3.1.1
+  - r-caret=6.0_83
+  - r-glmnet=2.0_16
+  - r-mgcv=1.8_28
+  - r-pROC=1.14.0
+  - r-cluster=2.0.8
+  - r-ranger=0.11.2
+  - r-e1071=1.7_1
+  - r-randomForest=4.6_14
+  - r-mvtnorm=1.0_10
+  - r-mclust=5.4.5
+  - r-margins=0.3.23
+  - r-plotmo=3.5.6
+  - r-rpart=4.1_15
+  - r-rpart.plot=3.0.8
+  - r-fields=10.0
+  - r-grf=1.0.1
+  - r-quantregforest=1.3_7
